@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Stacks & Tools
-
-[StackShare](https://stackshare.io/rollsover/my-stack) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/rollsover/my-stack)
+- 🔭 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/rollsover/my-stack)
+- 🌱 [LeetCode](https://leetcode.com/rollsover)
