@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 [StackShare](https://stackshare.io/rollsover/my-stack)
+- 💾 [Gists](https://gist.github.com/rollsover)
 - 🌱 [LeetCode](https://leetcode.com/rollsover)
